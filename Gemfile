@@ -16,6 +16,5 @@ group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
+  gem 'ci_reporter', '~> 1.0.0'
 end
-
-gem 'ci_reporter', '~> 1.0.0'
