@@ -18,4 +18,4 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'ci_reporter', '~> 2.0.0'
+gem 'ci_reporter', '~> 1.0.0'
